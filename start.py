@@ -4,7 +4,7 @@ import requests
 # Masukkan API ID, API Hash, dan nomor Anda
 api_id = "29020994"  # Ganti dengan API ID Anda
 api_hash = "902755de45a3728b90abb019ce5cfd31"  # Ganti dengan API Hash Anda
-phone_number = "YOUR_PHONE_NUMBER"  # Ganti dengan nomor Telegram Anda (format: +62...)
+phone_number = "6285134345907"  # Ganti dengan nomor Telegram Anda (format: +62...)
 
 # Inisialisasi Telegram Client
 client = TelegramClient('session_name', api_id, api_hash)
